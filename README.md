@@ -7,7 +7,7 @@ IBMのCloud Annotationsを使い、旗のラベルを集める<br>
 if 精度が悪かったら、yolov3か、jetsonnanoのOjbectDetectionを使用する<br>
 else 精度が良かったら、そのAIモデルをjetsonnanoに組み込む<br><br>
 
-## Enligh<br>
+## English<br>
 Collect flag labels using IBM CloudAnnotations.<br>
 Train the AI model on GoogleColab with labels.<br>
 Check the accuracy.<br>
