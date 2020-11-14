@@ -1,7 +1,7 @@
 # program
 11/14
 <日本語>
-IBMのCloud Annotationsを使い、旗のラベルを集める
+IBMのCloud Annotationsを使い、旗のラベルを集める<br>
 集めたラベルを、GoogleColabでAIモデルのトレーニングをする
 精度を調べる
 if 精度が悪かったら、yolov3か、jetsonnanoのOjbectDetectionを使用する
