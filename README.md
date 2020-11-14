@@ -1,4 +1,4 @@
-# program
+# Memo
 11/14<br>
 ## <日本語><br>
 IBMのCloud Annotationsを使い、旗のラベルを集める<br>
