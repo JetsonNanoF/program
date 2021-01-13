@@ -4,6 +4,7 @@ import cv2
 import itertools
 
 net = jetson.inference.detectNet("ssd-mobilenet-v2", threshold=0.5)
+font = jetson.utils.cudaFont()
 camera = jetson.utils.gstCamera(1280, 720, "/dev/video1")
 display = jetson.utils.glDisplay()
 
